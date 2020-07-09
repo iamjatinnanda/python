@@ -1,0 +1,5 @@
+language = "python3"
+run = ""
+
+y = 1
+print(y)
